@@ -1,7 +1,7 @@
 # 網頁切版直播班 Gulp 範例
 
-## https://xd.adobe.com/view/ea9c3e28-6d25-42cb-b6a5-1571c1707f05-bfcf/specs/
-## https://fonts.google.com/icons?selected=Material+Icons&icon.query=assignment&icon.platform=web
+## Layout 
+- https://xd.adobe.com/view/ea9c3e28-6d25-42cb-b6a5-1571c1707f05-bfcf/specs/
 
 > 使用該專案 Gulp 時，就可以不用使用其他編譯工具編譯 SCSS 或是 JavaScript 囉。
 
